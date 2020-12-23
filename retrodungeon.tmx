@@ -40,7 +40,7 @@
  </tileset>
  <layer id="21" name="exit_Black" width="60" height="24">
   <properties>
-   <property name="exitURL" value="retrodungeon.json#start"/>
+   <property name="exitSceneUrl" value="retrodungeon.json#start"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -71,7 +71,7 @@
  </layer>
  <layer id="20" name="exit_Forest" width="60" height="24">
   <properties>
-   <property name="exitUrl" value="retrodungeon.json#start_Forest"/>
+   <property name="exitSceneUrl" value="retrodungeon.json#start_Forest"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -129,6 +129,9 @@
 </data>
  </layer>
  <layer id="18" name="exit" width="60" height="24">
+  <properties>
+   <property name="exitSceneUrl" value="main.json#fromRetroDungeon"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
