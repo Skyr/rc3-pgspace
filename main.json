@@ -164,7 +164,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/c3oc.json#start_c3kidspace}"
+                 "value":"{<lobby>\/maps\/c3oc.json#start_c3kidspace}"
                 }],
          "type":"tilelayer",
          "visible":true,

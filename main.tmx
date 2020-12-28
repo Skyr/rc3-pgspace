@@ -466,7 +466,7 @@
  </layer>
  <layer id="15" name="toLobby" width="48" height="25">
   <properties>
-   <property name="exitSceneUrl" value="{&lt;lobby&gt;/c3oc.json#start_c3kidspace}"/>
+   <property name="exitSceneUrl" value="{&lt;lobby&gt;/maps/c3oc.json#start_c3kidspace}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
