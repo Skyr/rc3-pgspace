@@ -38,7 +38,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/jiska2342\/malware\/blob\/main\/malware.pdf"
+                 "value":"https:\/\/rc3.cccs.de\/malware.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,

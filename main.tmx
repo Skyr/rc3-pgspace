@@ -242,7 +242,7 @@
  </layer>
  <layer id="11" name="urlPentest" width="48" height="25">
   <properties>
-   <property name="openWebsite" value="https://github.com/jiska2342/malware/blob/main/malware.pdf"/>
+   <property name="openWebsite" value="https://rc3.cccs.de/malware.pdf"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
