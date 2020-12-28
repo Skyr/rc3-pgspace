@@ -306,7 +306,7 @@
  </layer>
  <layer id="7" name="urlAnnouncements" width="48" height="25">
   <properties>
-   <property name="openWebsite" value="https://pad.c3kidspace.de/rC3-Workshops-for-Kids"/>
+   <property name="openWebsite" value="https://c3kidspace.de/2020/12/27/rc3-workshops-for-kids"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
